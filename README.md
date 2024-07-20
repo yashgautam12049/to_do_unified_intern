@@ -30,12 +30,7 @@ Manage your todos efficiently with this simple ToDo application built with React
 
 ## Getting Started
 
-### Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/rohitvinodyadav9/03-ToDoList.git
    ```
 
 ### Features in Detail
